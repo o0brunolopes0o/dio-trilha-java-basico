@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         final double VALOR_DE_PI = 3.14; //representação de final const
         System.out.println(VALOR_DE_PI);
-        
+
         byte b = 127;
         short s = 32767;
         int i = 2147483647;
