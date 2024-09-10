@@ -77,7 +77,6 @@ classDiagram
     iPhone ..|> AparelhoTelefonico
     iPhone ..|> NavegadorInternet
 
-O diagrama completo das classes e interfaces do projeto também está disponível [aqui](docs/diagrama-uml.md) em formato Mermaid.
 ```
 
 ## 📜 Exemplo de Uso
